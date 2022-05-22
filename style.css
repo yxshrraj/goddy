@@ -1,0 +1,51 @@
+body
+{
+background-color: plum;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size:15px;
+font-weight:bold;
+;
+}
+h1
+{
+color:crimson;
+font-style:italic
+}
+p
+{
+color: rgb(2, 15, 12);
+font-weight: 5000;
+width:65%;
+height:65%;
+
+
+}
+button
+{
+border: 5px dotted black;
+border-radius: 25px;
+background-color: palegoldenrod;
+color:crimson;
+}
+.amazing
+{
+   font-size:40px; 
+}
+.short
+{
+    font-size:30px;
+    color:coral
+}
+.parent
+{
+    background-color: rgb(190, 27, 27);
+    
+}
+.child
+{
+    background-color: aqua;
+    padding:10px;
+    margin:30px;
+    display:inline-block
+}
+
